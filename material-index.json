@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/collinear.csv",
+    "sha256": "4b8e39fd355a2aad7f722fb96a9b7e8745d1347454b7ec33c9ee5a79391fa72e",
+    "size_bytes": 65
+  },
+  {
+    "path": "fixtures/experiments.csv",
+    "sha256": "3fea712a1b91ba5b4d3e80d7dbc5c8d504297d1fff3445557bfb99628e89678c",
+    "size_bytes": 195
+  },
+  {
+    "path": "fixtures/library.json",
+    "sha256": "b0e5f6701937920498a551573e3e8273097d41f2b7a68591ec7a9b3ef05729f9",
+    "size_bytes": 405
+  }
+]

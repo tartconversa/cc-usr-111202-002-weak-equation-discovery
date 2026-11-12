@@ -1,0 +1,32 @@
+{
+  "candidate_terms": [
+    "1",
+    "x",
+    "z",
+    "x2",
+    "xz",
+    "z2"
+  ],
+  "conservation": {
+    "enabled": true,
+    "state_sum_derivative": 0
+  },
+  "window_sample_counts": [
+    2,
+    3
+  ],
+  "holdout_experiments": [
+    "holdout"
+  ],
+  "exclude_from_training": [
+    "hand"
+  ],
+  "sparsity_grid": [
+    0,
+    0.001,
+    0.01,
+    0.1
+  ],
+  "seed": 1120202,
+  "rollout_step": 0.05
+}
